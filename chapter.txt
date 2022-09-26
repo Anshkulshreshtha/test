@@ -1,0 +1,7 @@
+Welcome to Node.js v16.17.0.
+Type ".help" for more information.
+> This is another test
+     ^^
+
+Uncaught SyntaxError: Unexpected identifier
+> > > 
